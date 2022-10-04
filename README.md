@@ -1,3 +1,3 @@
-# second-repo
+# second-repostorie
 
 THIS IS SECOND REPO FOR LEARNING GIT HUB
